@@ -164,7 +164,7 @@ cd simulacao_servidor
 - [ ] **97.** Mostre as últimas 10 linhas do arquivo `var/log/syslog` e salve em `RELATORIO_FINAL/ultimos_logs.txt` (`tail`)
 - [ ] **98.** Crie um arquivo `RELATORIO_FINAL/autor.txt` e escreva seu nome dentro dele
 - [ ] **99.** Execute o comando `history` (se disponível no seu shell) e tente salvar em `RELATORIO_FINAL/meus_comandos.txt`
-- [ ] **100.** **FINALIZAÇÃO:** Parabéns! Você completou a simulação. Avise o professor
+- [ ] **100.** **FINALIZAÇÃO:** Parabéns! Você completou a simulação. Envie seu relatório final para o professor
 
 ---
 
