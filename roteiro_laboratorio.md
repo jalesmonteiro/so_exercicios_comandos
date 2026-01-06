@@ -78,7 +78,6 @@ A API em Flask tem uma pasta de migrações de banco de dados (`migrations/versi
 
 - [ ] Vá até o diretório `var/www/api_rest_flask`
 - [ ] Remova o diretório `migrations` e todo o seu conteúdo
-- [ ] Volte um nível para a raiz do projeto Flask
 - [ ] Crie uma pasta chamada `logs_app`
 - [ ] Mova o arquivo `.env.example` para dentro da pasta `docker` (simulando uma reestruturação)
 
